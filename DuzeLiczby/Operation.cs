@@ -37,13 +37,22 @@ namespace DuzeLiczby
 
         #endregion
 
-        public void GenerateRandomValues()
+        public void GenerateRandomValues(int? min = null, int? max = null)
         {
+            
             Random rnd = new Random();
 
             for (int i = 0; i < this.Capacity; i++)
             {
-                this.ArrayOfIntegers[i] = rnd.Next();
+                if (min.HasValue && max.HasValue)
+                {
+                    if (max > min) { this.ArrayOfIntegers[i] = rnd.Next(min.Value, max.Value); }
+
+                }
+                else
+                {
+                    this.ArrayOfIntegers[i] = rnd.Next(100000000);
+                }
             }
         }
 
@@ -57,7 +66,7 @@ namespace DuzeLiczby
             var capacity = this.ArrayOfIntegers.Count();
             try
             {
-                this.ArrayOfIntegers[capacity + 1] = checked(value);
+                this.ArrayOfIntegers[capacity - 1] = checked(value);
             }
             catch (IndexOutOfRangeException)
             {
@@ -88,7 +97,7 @@ namespace DuzeLiczby
                 foreach (var item in this.ArrayOfIntegers)
                 {
                     actualVal = item;
-                    results.Add(previousValue + " / " + item + " = " + checked(previousValue / item));
+                    results.Add(previousValue + " / " + item + " = " + (previousValue / item));
                     previousValue = item;
                 }
             }

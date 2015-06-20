@@ -1,0 +1,14 @@
+c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\Tests\bin\Debug\Tests.dll
+c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\Tests\bin\Debug\Tests.pdb
+c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\Tests\bin\Debug\DuzeLiczby.exe
+c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\Tests\bin\Debug\DuzeLiczby.pdb
+c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\Tests\obj\Debug\Tests.dll
+c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\Tests\obj\Debug\Tests.pdb
+C:\Users\user\Downloads\DuzeLiczby\DuzeLiczby\Tests\bin\Debug\Tests.dll
+C:\Users\user\Downloads\DuzeLiczby\DuzeLiczby\Tests\bin\Debug\Tests.pdb
+C:\Users\user\Downloads\DuzeLiczby\DuzeLiczby\Tests\bin\Debug\DuzeLiczby.exe
+C:\Users\user\Downloads\DuzeLiczby\DuzeLiczby\Tests\bin\Debug\DuzeLiczby.pdb
+C:\Users\user\Downloads\DuzeLiczby\DuzeLiczby\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\DuzeLiczby\DuzeLiczby\Tests\obj\Debug\Tests.dll
+C:\Users\user\Downloads\DuzeLiczby\DuzeLiczby\Tests\obj\Debug\Tests.pdb

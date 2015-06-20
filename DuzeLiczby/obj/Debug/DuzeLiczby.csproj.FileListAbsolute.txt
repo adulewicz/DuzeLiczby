@@ -1,5 +1,4 @@
 c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\DuzeLiczby\bin\Debug\DuzeLiczby.exe.config
-c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\DuzeLiczby\obj\Debug\DuzeLiczby.csprojResolveAssemblyReference.cache
 c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\DuzeLiczby\obj\Debug\DuzeLiczby.Properties.Resources.resources
 c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\DuzeLiczby\obj\Debug\DuzeLiczby.csproj.GenerateResource.Cache
 c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\DuzeLiczby\obj\Debug\DuzeLiczby.Form1.resources
@@ -7,3 +6,7 @@ c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\DuzeLiczby\bin\
 c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\DuzeLiczby\bin\Debug\DuzeLiczby.pdb
 c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\DuzeLiczby\obj\Debug\DuzeLiczby.exe
 c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\DuzeLiczby\obj\Debug\DuzeLiczby.pdb
+c:\users\paweł\documents\visual studio 2012\Projects\DuzeLiczby\DuzeLiczby\obj\Debug\DuzeLiczby.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\DuzeLiczby\DuzeLiczby\DuzeLiczby\bin\Debug\DuzeLiczby.exe.config
+C:\Users\user\Downloads\DuzeLiczby\DuzeLiczby\DuzeLiczby\obj\Debug\DuzeLiczby.exe
+C:\Users\user\Downloads\DuzeLiczby\DuzeLiczby\DuzeLiczby\obj\Debug\DuzeLiczby.pdb

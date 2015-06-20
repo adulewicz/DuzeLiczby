@@ -1,0 +1,8 @@
+/home/adam/Projekty/DuzeLiczby/DuzeLiczby/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/adam/Projekty/DuzeLiczby/DuzeLiczby/obj/Release/DuzeLiczby.Form1.resources
+/home/adam/Projekty/DuzeLiczby/DuzeLiczby/obj/Release/DuzeLiczby.Properties.Resources.resources
+/home/adam/Projekty/DuzeLiczby/DuzeLiczby/bin/Release/DuzeLiczby.exe.config
+/home/adam/Projekty/DuzeLiczby/DuzeLiczby/bin/Release/DuzeLiczby.exe.mdb
+/home/adam/Projekty/DuzeLiczby/DuzeLiczby/bin/Release/DuzeLiczby.exe
+/home/adam/Projekty/DuzeLiczby/DuzeLiczby/obj/Release/DuzeLiczby.exe
+/home/adam/Projekty/DuzeLiczby/DuzeLiczby/obj/Release/DuzeLiczby.exe.mdb
